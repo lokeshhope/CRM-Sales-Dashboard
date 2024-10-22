@@ -35,4 +35,4 @@ Aims Grid:
 
 
 ## Qauterly Sales Performance
-![Screenshot (38)](https://github.com/lokeshhope/CRM-Sales-Dashboard/commit/2adef93ea223a074135ddd94491391c843f5dd0d)
+![Screenshot (38)](https://github.com/lokeshhope/CRM-Sales-Dashboard/commit/2adef93ea223a074135ddd94491391c843f5dd0d.png)
