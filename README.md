@@ -6,13 +6,10 @@ Problem : No visibility of the data outside of the platform.
 
 Simple Insights : 
 
-•	Revenue breakdown by cities
+1. Prepare the data for analysis
+2. Explore the data with pivot tables
+3. Build a dynamic dashboard
 
-•	Revenue breakdown by years and months
-
-•	Show me top 5 customers by revenue and sales quantity
-
-•	Top 5 products by revenue number
 
 Aims Grid:
 
@@ -29,10 +26,8 @@ Aims Grid:
         o	Sales team able to take better decisions and prove 20% time savings and 15% increase in sales WON.
 
 
+## Qauterly Sales Performance
+![Screenshot (38)](https://github.com/lokeshhope/CRM-Sales-Dashboard/blob/main/CRM_Score_card.png)
+
 ## Overall Analysis
 ![Screenshot (39)](https://github.com/lokeshhope/CRM-Sales-Dashboard/blob/main/CRM_Dashboard.png)
-
-
-
-## Qauterly Sales Performance
-![Screenshot (38)](https://github.com/lokeshhope/CRM-Sales-Dashboard/commit/2adef93ea223a074135ddd94491391c843f5dd0d.png)
